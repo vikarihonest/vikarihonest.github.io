@@ -1,1 +1,87 @@
-<p>hay</p>
+</head>
+<body>
+<div class="a1">
+<b id="bq">Poor FreeLancer</b>
+</div>
+<div class="a2">
+<div id="b1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrzufAaAAJBm5ECTTk676cCejwkl1Kk9WYsw&usqp=CAU" onclick="lg(0)">
+</div>
+<div id="b2">
+<span id="msg"></span>
+</div>
+</div>
+<div class="a1" id="bq2">
+<b>What I Can Write?</b>
+</div>
+<div class="a3">
+<img src="https://i.postimg.cc/ncCSKM8T/1674713529723.png" id="m1" onclick="lg(1)">
+<img src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/Logo-Java.png" id="m3" onclick="lg(2)">
+<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" id="m2"> -->
+<img src="https://img.icons8.com/color/480/c-programming.png" id="m2" onclick="lg(3)">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" id="m2" onclick="lg(4)">
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" id="m2" onclick="lg(5)">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" id="m2" onclick="lg(6)">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" id="m2" onclick="lg(7)">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtvCIbaKBwWY-DvsSs-3NlN4ZWEx5V5b0evg&usqp=CAU" id="m2" onclick="lg(8)">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WebGL_Logo.svg/1280px-WebGL_Logo.svg.png" id="m4" onclick="lg(9)">
+<img src="https://cursosdedesarrollo.com/wp-content/uploads/2019/09/CSS3_and_HTML5_logos_and_wordmarks.svg.png" id="m4" onclick="lg(10)">
+</div>
+<div class="a1" id="bq3">
+<b>My Experience</b>
+</div>
+<div class="a3">
+<button id="th" onclick="lg(12)">2012</button>
+<button id="th" onclick="lg(13)">2013</button>
+<button id="th" onclick="lg(14)">2014</button>
+<button id="th" onclick="lg(15)">2015</button>
+<button id="th" onclick="lg(16)">2016</button>
+<button id="th" onclick="lg(17)">2017</button>
+<button id="th" onclick="lg(18)">2018</button>
+<button id="th" onclick="lg(19)">2019</button>
+<button id="th" onclick="lg(20)">2020</button>
+<button id="th" onclick="lg(21)">2021</button>
+</div>
+<div class="a1" id="bq2">
+<b>My Article</b>
+</div>
+<div>
+<div class="a2" style="padding:10px;border-left:10px solid gray;">
+<!--
+<b style="height:20px;width:4px;position:absolute;left:0;top:460;border-radius:0;"></b>-->
+<canvas id="cv1">
+</canvas>
+<span id="t1">What is Gravity?<br> Click The Box for Jump
+<span>
+</div>
+<div class="a2" style="padding:10px;border-left:10px solid gray;">
+<!--
+<b style="height:20px;width:4px;position:absolute;left:0;top:610;border-radius:0;"></b>-->
+<canvas id="cv1">
+</canvas>
+<span id="t1">What is Shadow?<br>Check Text in Left Image<span>
+</div>
+<div class="a2" style="padding:10px;border-left:10px solid gray;">
+<b style="height:20px;width:4px;position:absolute;left:0;top:760;border-radius:0;"></b>
+<canvas id="cv1">
+</canvas>
+<span id="t1">What is Lighting?<br>Check Box in Left Image<span>
+</div>
+<div class="a2" style="padding:10px;border-left:10px solid gray;">
+<b style="height:20px;width:4px;position:absolute;left:0;top:910;border-radius:0;"></b>
+<canvas id="cv1">
+</canvas>
+<span id="t1">What is Color Gradient?<br>Check in Left Image<span>
+</div>
+<div class="a2" style="padding:10px;border-left:10px solid gray;">
+<canvas id="cv1">
+</canvas>
+<span id="t1">Can we Zoom the Image?<br>of Course "Yes"<span>
+</div>
+<canvas style="width:30px;height:720px;border:10px dotted gray;position:absolute;right:30;top:420;border-top:none;border-bottom:none;border-left:none;">
+</canvas>
+</div>
+<div class="a1" id="bq2">
+<b>My Article</b>
+</div>
+</body>
